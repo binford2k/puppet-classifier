@@ -1,0 +1,13 @@
+{
+  "name": "binford2k-classification",
+  "version": "0.0.1",
+  "author": "binford2k",
+  "summary": "Toy rules based classifier in code",
+  "license": "Apache 2.0",
+  "source": "https://github.com/binford2k/puppet-classifier",
+  "project_page": "https://github.com/binford2k/puppet-classifier",
+  "description": "Toy rules based classifier in code.",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib", "version_requirement":">= 3.0.0"}
+  ]
+}
